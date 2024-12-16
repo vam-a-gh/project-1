@@ -184,8 +184,9 @@ position: relative;
 }
 .youtube-icon,
  .youtube-log{
-    height: 38px;
+    height: 21px;
     cursor: pointer;
+     margin-left: 7px;
 }
 
 .search-button{
